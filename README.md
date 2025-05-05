@@ -1,5 +1,5 @@
 “Zombie & Bounty Hunters” 
-Bărîlă Matei Grupa 1210A
+Bărîlă Matei
 
 
 Povestea jocului
